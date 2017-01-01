@@ -1,0 +1,17 @@
+{
+  "name": "h1z1-leaderboard-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bluebird": "^3.4.7",
+    "cli-table": "^0.3.1",
+    "lodash": "^4.17.3"
+  }
+}
