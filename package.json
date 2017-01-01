@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "javilobo8 <info.lobobot@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.3",
